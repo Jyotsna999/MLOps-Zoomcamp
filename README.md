@@ -2,9 +2,9 @@
 
 My progress on the road to MLOps based on MLOps Zoomcamp course by DataTalks.CLub. There are 7 modules in this course.
 
-Syllabus
+**Syllabus**
 
-Module 1: Introduction
+[Module 1: Introduction](https://github.com/Jyotsna999/MLOps-Zoomcamp/blob/main/Module%201:%20Introduction)
 What is MLOps
 MLOps maturity model
 Running example: NY Taxi trips dataset
