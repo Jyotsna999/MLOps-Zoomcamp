@@ -11,8 +11,7 @@ Running example: NY Taxi trips dataset
 Why do we need MLOps
 Course overview
 Environment preparation
-Homework
-More details
+
 
 Module 2: Experiment tracking and model management
 Experiment tracking intro
@@ -21,30 +20,27 @@ Experiment tracking with MLflow
 Saving and loading models with MLflow
 Model registry
 MLflow in practice
-Homework
-More details
+
 
 Module 3: Orchestration and ML Pipelines
 Workflow orchestration
 Prefect 2.0
 Turning a notebook into a pipeline
 Deployment of Prefect flow
-Homework
-More details
+
 
 Module 4: Model Deployment
 Three ways of model deployment: Online (web and streaming) and offline (batch)
 Web service: model deployment with Flask
 Streaming: consuming events with AWS Kinesis and Lambda
 Batch: scoring data offline
-Homework
-More details
+
 
 Module 5: Model Monitoring
 Monitoring ML-based services
 Monitoring web services with Prometheus, Evidently, and Grafana
 Monitoring batch jobs with Prefect, MongoDB, and Evidently
-More details
+
 
 Module 6: Best Practices
 Testing: unit, integration
@@ -52,8 +48,7 @@ Python: linting and formatting
 Pre-commit hooks and makefiles
 CI/CD (Github Actions)
 Infrastructure as code (Terraform)
-Homework
-More details
+
 
 Project
 End-to-end project with all the things above
